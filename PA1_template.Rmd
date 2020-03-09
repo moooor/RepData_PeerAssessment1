@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE, fig.path="figure/activity")
 ```
 ```{r echo=TRUE, cache=TRUE}
 # Operate in current directory
-setwd(getSrcDirectory(function(x) {x}))
+
 ```
 
 ## Loading and preprocessing the data
